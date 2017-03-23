@@ -1,1 +1,0 @@
-![Model View Controller](PDFs/HuxReactNativeEngineer.pdf)
