@@ -26,7 +26,7 @@ Engaged communities serving one another through a platform that promotes access,
 Value is driven by size and engagement — size affords selection and activity is leveraged to improve working relationships
 
 #### What behaviors do we hire for?
-  
+####
 Ambition  
 Thinking big and taking action: pragmatic idealism
 
@@ -43,7 +43,7 @@ Effective
 No excuses, just results
 
 #### How do we operate?
-  
+####
 User First  
 Nuanced empathy for our users and their needs
 
