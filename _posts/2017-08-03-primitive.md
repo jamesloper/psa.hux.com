@@ -1,4 +1,8 @@
-Primitive
+---
+layout: post
+title: Primitive
+categories: hux
+---
 
 ## Vision
 World’s Largest Marketplace for Services
