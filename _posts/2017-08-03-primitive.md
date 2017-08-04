@@ -24,6 +24,7 @@ Engaged communities serving one another through a platform that promotes access,
 
 #### What behaviors do we hire for?
 
+
 Ambition  
 Thinking big and taking action: pragmatic idealism
 
