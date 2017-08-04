@@ -4,29 +4,29 @@ title: Primitive
 categories: hux
 ---
 
-#### Vision
+**Vision**  
 World’s Largest Marketplace for Services
 
-#### Why do we exist?
+**Why do we exist?**
 Delightful working relationships
 
-#### What’s our mission?
+**What’s our mission?**  
 Build communities that empower us to serve one another
 
-#### Why will people care?
+**Why will people care?**  
 It’s a human need to help people we know and trust
 
-#### What's the opportunity?
+**What's the opportunity?**  
 $800B+
 
-#### How do we win?
+**How do we win?**  
 Engaged communities serving one another through a platform that promotes access, trust, reciprocity, and delightful relationships
 
-#### What's the business model?
+**What's the business model?**  
 Value is driven by size and engagement — size affords selection and activity is leveraged to improve working relationships
 
-#### What behaviors do we hire for?
-         
+**What behaviors do we hire for?**  
+
 Ambition  
 Thinking big and taking action: pragmatic idealism
 
@@ -42,7 +42,7 @@ A hungry mind that's open yet critical and seeks true understanding
 Effective  
 No excuses, just results
 
-#### How do we operate?
+**How do we operate?**  
            
 User First  
 Nuanced empathy for our users and their needs
