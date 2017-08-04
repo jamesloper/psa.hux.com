@@ -7,7 +7,7 @@ categories: hux
 **Vision**  
 World’s Largest Marketplace for Services
 
-**Why do we exist?**
+**Why do we exist?**  
 Delightful working relationships
 
 **What’s our mission?**  
