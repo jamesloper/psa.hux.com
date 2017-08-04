@@ -45,6 +45,7 @@ No excuses, just results
 
 #### How do we operate?
 
+
 User First  
 Nuanced empathy for our users and their needs
 
