@@ -78,17 +78,17 @@ Trust & Support
 Form delightful relationships, hold each other accountable and encourage results
 
 **Product Values**
-
-Access
+     
+Access  
 Access to friends, neighbors, networks and their affinities to receive or offer help
-
-Trust
+     
+Trust  
 Clearly communicating with whom you will have a delightful working relationship
-
-Reciprocity
+     
+Reciprocity  
 Maximizing the value of giving to others
-
-Relationships
+     
+Relationships  
 Eliminating friction in offline relationships to make them delightful
-
+     
 *tempus fugit*
