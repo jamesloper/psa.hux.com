@@ -77,4 +77,18 @@ Clear end-to-end solutions that keep complex projects moving
 Trust & Support  
 Form delightful relationships, hold each other accountable and encourage results
 
+**Product Values**
+
+Access
+Access to friends, neighbors, networks and their affinities to receive or offer help
+
+Trust
+Clearly communicating with whom you will have a delightful working relationship
+
+Reciprocity
+Maximizing the value of giving to others
+
+Relationships
+Eliminating friction in offline relationships to make them delightful
+
 *tempus fugit*
