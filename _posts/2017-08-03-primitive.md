@@ -22,6 +22,9 @@ $800B+
 **How do we win?**  
 Engaged communities serving one another through a platform that promotes access, trust, reciprocity, and delightful relationships
 
+**What is our positioning?**  
+Sell on trust and efficiency, surprise with value
+
 **What's the business model?**  
 Value is driven by size and engagement — size affords selection and activity is leveraged to improve working relationships
 
