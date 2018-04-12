@@ -22,7 +22,7 @@ $800B+
 **How do we win?**  
 Engaged communities serving one another through a platform that promotes access, trust, reciprocity, and delightful relationships
 
-**What is our positioning?**  
+**What's our positioning?**  
 Sell on trust and efficiency, surprise with value
 
 **What's the business model?**  
