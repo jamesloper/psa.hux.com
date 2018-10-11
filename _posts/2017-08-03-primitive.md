@@ -8,7 +8,7 @@ categories: hux
 World’s Largest Marketplace for Services
 
 **Why do we exist?**  
-Delightful working relationships
+Improve the quality of life of providers and their customers
 
 **What’s our mission?**  
 Build communities that empower us to serve one another
